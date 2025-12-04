@@ -1,4 +1,7 @@
-package org.prova1;
+package org.prova1.dao;
+
+import org.prova1.database.Database;
+import org.prova1.model.Contato;
 
 import java.sql.*;
 import java.util.ArrayList;

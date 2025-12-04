@@ -1,4 +1,4 @@
-package org.prova1;
+package org.prova1.controller;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

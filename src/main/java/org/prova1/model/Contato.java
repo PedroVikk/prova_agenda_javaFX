@@ -1,4 +1,4 @@
-package org.prova1;
+package org.prova1.model;
 
 public class Contato {
     private int id;

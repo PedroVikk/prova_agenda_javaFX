@@ -1,5 +1,7 @@
 package org.prova1;
 
+import org.prova1.database.Database;
+
 public class TesteConexao {
     public static void main(String[] args) {
         try {

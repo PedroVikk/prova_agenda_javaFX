@@ -1,4 +1,4 @@
-package org.prova1;
+package org.prova1.database;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
